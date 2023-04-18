@@ -1,3 +1,4 @@
-APABILA ADA YANG COPY TOLONG CANTUMKAN LINK GITHUB 
+Praktikum Pengembangan Aplikasi Berbasis Web
 
-TERIMA KASIH
+
+Dendi Suhada Irawan
